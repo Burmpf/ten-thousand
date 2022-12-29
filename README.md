@@ -3,6 +3,14 @@
 
 ### Author: Keyan Tabor
 
+### Additional Credits to:
+Jason Christopher
+
+Oliver Speir
+
+Ian Shirley
+
+
 #### Links and Resources
 Libraries:
 - Pytest
